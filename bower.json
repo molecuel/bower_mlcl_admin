@@ -1,0 +1,24 @@
+{
+  "name": "mlcl_admin",
+  "version": "0.0.1",
+  "homepage": "https://github.com/molecuel/mlcl_admin_frontend",
+  "authors": [
+    "Dominic Böttger <Dominic.Boettger@inspirationlabs.com>"
+  ],
+  "description": "Admin interface for the molecuel CMS",
+  "main": "index.html",
+  "keywords": [
+    "molecuel",
+    "cms",
+    "angular",
+    "mlcl"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
