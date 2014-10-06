@@ -1,5 +1,5 @@
 /**
- * mlcl_admin - v0.3.3 - 2014-10-06
+ * mlcl_admin - v0.3.4 - 2014-10-06
  * https://github.com/molecuel/mlcl_admin_frontend
  *
  * Copyright (c) 2014 Dominic Böttger
